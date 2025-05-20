@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction (Maret 2025)
+# 📊 Customer Churn Prediction
 
 Proyek ini bertujuan untuk memprediksi apakah pelanggan layanan telekomunikasi akan berhenti berlangganan (*churn*) menggunakan **Decision Tree Classifier**.
 
